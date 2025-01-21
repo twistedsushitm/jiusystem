@@ -1,2 +1,0 @@
-# jiusystem
-Personal Ecosystem
